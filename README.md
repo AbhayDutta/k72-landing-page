@@ -4,9 +4,9 @@ A clean and minimal landing page built with **React + GSAP**.
 
 ## Screenshots
 
-### Desktop View
+### Screenshot
 
-![Desktop Screenshot](.assets/screenshot.png)
+.assets/screenshot.png
 
 ## Features
 
