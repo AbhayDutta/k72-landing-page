@@ -5,7 +5,8 @@ A clean and minimal landing page built with **React + Vite**.
 
 ## Screenshot
 
-[Desktop Screenshot](src/assets/screenshot.png)
+![Desktop Screenshot](assets/screenshot.png)
+
 
 ## Features
 
