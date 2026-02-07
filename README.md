@@ -1,12 +1,31 @@
-<<<<<<< HEAD
-# React + Vite
+# K72 Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and minimal landing page built with **React + GSAP**.
 
-Currently, two official plugins are available:
+## Screenshots
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# k72-landing-page
->>>>>>> f5324604f62198f36b1b2b3a0db8c4e1fb728a26
+### Desktop View
+
+![Desktop Screenshot](.assets/screenshot.png)
+
+## Features
+
+- Fast and lightweight
+- Responsive layout
+- Built with React + Vite
+- Simple structure
+
+## Tech Stack
+
+- React
+- Vite
+- JavaScript
+- CSS
+
+## How to Run Locally
+
+```bash
+git clone https://github.com/AbhayDutta/k72-landing-page.git
+cd k72-landing-page
+npm install
+npm run dev
