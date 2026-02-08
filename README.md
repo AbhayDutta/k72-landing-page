@@ -1,6 +1,6 @@
 # K72 Landing Page
 
-A clean and minimal landing page built with **React + Vite**.
+A clean and minimal landing page built with **React + GSAP**.
 
 
 ## Screenshot
